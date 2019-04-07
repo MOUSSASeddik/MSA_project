@@ -3,4 +3,4 @@ Projet: réalisation d'un "HUB de protocole" qui offre une solution IoT complèt
 
 Ce projet se caractérise par 2 aspects: 
 - Aspect électronique: la réalisations de HUB avec raspberry pi 3.
-- Aspect informatique: la réalisation d'une plateforme (un site web pour la gestion des utilisateurs et des objets et une application androïde pour commander les objet
+- Aspect informatique: la réalisation d'une plateforme (un site web pour la gestion des utilisateurs et des objets et une application androïde pour commander les objets
