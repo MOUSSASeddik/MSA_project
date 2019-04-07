@@ -1,4 +1,4 @@
-####################"
+
 Projet:réalisation d'un "HUB de protocole" qui offre une solution IoT complète et permet aux utilisateurs d'obtenir des notifications instantanées en cas de détection d'un nouveau objet "End Device" ainsi que les AP à porté de notre gateways. De plus il assure la réception des donnés en utilisant le ZigBee.
 
 Ce projet se caractérise par 2 aspects: 
